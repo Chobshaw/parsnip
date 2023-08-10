@@ -1,2 +1,2 @@
 # parsnip
-A python module that provides a simple way to convert classes to and from dictionaries, json objects and files. Supports popular modules/libraries such as: dataclasses, attrs and SQLAlchemy.
+A Python module that facilitates conversion between classes and dictionaries, JSON objects and files. Integrates with popular modules and libraries, including dataclasses, attrs, and SQLAlchemy.
